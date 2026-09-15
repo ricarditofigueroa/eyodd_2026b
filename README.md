@@ -1,3 +1,6 @@
+<p align="center">
+![Texto alternativo](ruta/de/la/itgam.png)
+</p>
 # Estructura y Organizacio de Datos 👍
 Repositorio de la metería de Estructura y Organización de datos Semestre 2026B
 ## compentecias a desarrollar
@@ -11,4 +14,4 @@ identifica, seleciona y aplica eficientemente tipos de datos astractos, metodos 
  
 **unidad 4** metodos de ordenamiento y busqueda 
 
-cambio en el codespace
+cambio en el Codespace
