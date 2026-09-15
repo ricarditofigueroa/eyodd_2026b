@@ -1,6 +1,4 @@
-<p align="center">
- <img src="itgam.png" alt="Logo" width="200">
-</p>
+<img src="itgam.png" alt="Logo" width="200">
 # Estructura y Organizacio de Datos 👍
 Repositorio de la metería de Estructura y Organización de datos Semestre 2026B
 ## compentecias a desarrollar
