@@ -1,5 +1,6 @@
 <p align="center">
-![Texto alternativo](ruta/de/la/itgam.png)
+![Logo](EnhanceField/itgam.png)
+
 </p>
 # Estructura y Organizacio de Datos 👍
 Repositorio de la metería de Estructura y Organización de datos Semestre 2026B
