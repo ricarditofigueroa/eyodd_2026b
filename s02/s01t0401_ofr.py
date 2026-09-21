@@ -19,3 +19,4 @@ sum = 0
 # ciclo for
 for number in range(1,n+1):
     print(str(number) + " ")
+    #Actualización del programa de suma
