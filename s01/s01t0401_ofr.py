@@ -1,4 +1,3 @@
-
 """
 Escribe un programa que calcule
 la suma de los "n" numeros naturales.
@@ -6,7 +5,6 @@ Por ejemplo, si n = 100, el programa
 calculara la suma del 1 al 100
 42
 """
-
 # Importar biblioteca time
 import time
 
@@ -21,8 +19,6 @@ def sum_of_n(n):
 
     # Retornando el total de la suma
     return total_sum
-
-
 # Variable
 # El dataset
 dataset = []
@@ -45,7 +41,6 @@ for repetition in range(1, 11):
 
     # Agregar la tripleta de los datos al Dataset
     dataset.append((n, elapsed_time, result))
-
 
 # Mostrar los resultados
 for tup in dataset:

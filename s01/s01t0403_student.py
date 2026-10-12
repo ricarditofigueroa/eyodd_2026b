@@ -26,4 +26,4 @@ def check_student(input_student, student_list):
     return None
 
 # probando algoritmo 
-check_student("walter", student_list_02)        
+check_student("RAUL", student_list_02)        
