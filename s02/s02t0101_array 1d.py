@@ -10,7 +10,7 @@ import array as arr
 #d: numero desimal doble 
 #u: caracteres unicode
 my_array = arr.array('i', [10, 22, 300, 22, 333, 
-                           56, 5555, 12, 99, 45])
+                           56, 5555, 2000, 99, 45])
 
 # intencion automatica
 # for num in my_array: 
@@ -23,6 +23,19 @@ my_array = arr.array('i', [10, 22, 300, 22, 333,
 # print(len[my_array])
 
 # interar por indices
-for i in range(len(my_array)):
-    if my_array[i] % 2 == 0:
-        print(f"Elemento Num {i+1}:{my_array[i]}")
+# for i in range(len(my_array)):
+#     if my_array[i] % 2 == 0:
+#         print(f"Elemento Num {i+1}:{my_array[i]}")
+
+#Busqueda de un elemento
+num_to_search = 2000
+
+# modificando un valor
+# bracket notation
+my_array[8] = 2000
+try:
+    print(f"Localizado {num_to_search}: {my_array.index(num_to_search)}")
+except:
+    print(f" ⚠️ numero no encontrado !!!")
+
+    
